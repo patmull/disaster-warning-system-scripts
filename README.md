@@ -20,7 +20,7 @@ From then it's possible with adding your own API keys to reach as many internet 
    </ul>
 <p>
 
-Sources of warning information for particular example of implementation and its format outputs:
+Sources of warning information included for particular example of implementation and its format outputs:
 
 </p>
   <ul class="categories">
